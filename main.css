@@ -1,0 +1,25 @@
+html{
+    font-size:x-large
+}
+body{
+    color: bisque;
+    background-color: rgb(30, 6, 81);
+    background-image:url("/img/Bg-2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.dots-color{
+color: black;
+font-weight: bold;
+font-size: xx-large;
+}
+
+a{
+    color: rgb(137, 191, 237);
+}
+a:visited{
+    color: lightblue;
+}
+a:hover, a:active{
+    color: #eee
+}
